@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html",
+  "/agencies": "pages/agencies.html",
+  "/api/hello": "pages/api/hello.js",
+  "/branches": "pages/branches.html",
+  "/": "pages/index.html",
+  "/users": "pages/users.html",
+  "/verification": "pages/verification.js",
+  "/_document": "pages/_document.js"
+}
